@@ -50,7 +50,7 @@ public class StatsService {
         return minMonth + 1;
     }
 
-    //------------------------
+
     public int monthsBelowAverageSales(long[] statSales) {
 
         int months = 0;
